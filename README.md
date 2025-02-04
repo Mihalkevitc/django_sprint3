@@ -82,17 +82,17 @@
 ## Скриншоты
 
 ### Страница "О нас":
-![Страница "О нас"](screenshot/About.png)
+![Страница "О нас"](screenshots/About.png)
 
 ### Лента новостей:
-![Лента новостей](screenshot/Record_list.png)
+![Лента новостей](screenshots/Record_list.png)
 
 ### Пример публикации:
-![Пример публикации](screenshot/Examp_of_record.png)
+![Пример публикации](screenshots/Examp_of_record.png)
 
 ### Пример категории:
-![Пример категории](screenshot/Examp_of_category.png)
+![Пример категории](screenshots/Examp_of_category.png)
 
 ### Админ панель:
-![Админ панель](screenshot/Admin_panel.png)
+![Админ панель](screenshots/Admin_panel.png)
 
